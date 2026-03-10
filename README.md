@@ -73,6 +73,6 @@ Horst AM, Hill AP, Gorman KB (2020). *palmerpenguins: Palmer Archipelago (Antarc
 
 ## Authors
 
-[Patrick]
+[Patrick, Lebron James, Cristiano Ronaldo, Charles Leclerc]
 
 
